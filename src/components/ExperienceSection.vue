@@ -6,7 +6,7 @@ const experiences = [
     type: 'experience',
     title: 'Stagiaire',
     organization: 'Euphorbia Group',
-    period: '11 août – 11 novembre 2025',
+    period: 'Août 2025 – Novembre 2025',
     description:
       'Découverte de solutions de Business Intelligence, expérimentation de Metabase et exploration des outils et environnements informatiques.'
   },
@@ -14,7 +14,7 @@ const experiences = [
     type: 'experience',
     title: 'Stagiaire',
     organization: 'Cabinet SUTISUA (Cabinet d\'expertise comptable )',
-    period: '11 août – 11 novembre 2025',
+    period: 'Mars 2026 – Juin 2025',
     description:
       'Participation aux activités techniques et au traitement de données. Découverte des problématiques de gestion et d’exploitation des données en entreprise.'
   }
